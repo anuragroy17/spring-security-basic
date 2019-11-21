@@ -1,4 +1,4 @@
-#Spring Security Basic:
+# Spring Security Basic:
 - Basic Spring Security with role base login
 - Also has Lombok (So Install Lombok from https://projectlombok.org/ for your IDE)
 
